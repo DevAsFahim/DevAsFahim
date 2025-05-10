@@ -1,3 +1,5 @@
+<img src="https://github.com/DevAsFahim/DevAsFahim/blob/main/assets/github-banner.png?raw=true" alt="DevAsFahim GitHub README header image">
+
 <h1>Hi 👋, I'm Abu Saleh Md. Fahim</h1>
 <p>A passionate frontend developer from Bangladesh</p>
 <h2>🚀 Languages and Tools I Use</h2>
